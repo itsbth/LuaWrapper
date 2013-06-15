@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuaWrapper", "LuaWrapper\LuaWrapper.csproj", "{2C4EB3E6-A97F-454C-A002-C0CB831F0B3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallLuaFunctionTest", "CallLuaFunctionTest\CallLuaFunctionTest.csproj", "{A750DD1E-B493-42AC-9693-D8BE0B0F7AE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C4EB3E6-A97F-454C-A002-C0CB831F0B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4EB3E6-A97F-454C-A002-C0CB831F0B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4EB3E6-A97F-454C-A002-C0CB831F0B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4EB3E6-A97F-454C-A002-C0CB831F0B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A750DD1E-B493-42AC-9693-D8BE0B0F7AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A750DD1E-B493-42AC-9693-D8BE0B0F7AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A750DD1E-B493-42AC-9693-D8BE0B0F7AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A750DD1E-B493-42AC-9693-D8BE0B0F7AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
